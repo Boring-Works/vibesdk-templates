@@ -2,7 +2,7 @@ name: "minimal-vite"
 description: "Minimal Vite + TypeScript + Cloudflare Workers scaffolding for AI agents to build any kind of app"
 base_reference: "vite-reference"
 projectType: app
-disabled: true
+disabled: false
 
 # Start with empty deps, only include what's explicitly specified
 inherit_dependencies: false
